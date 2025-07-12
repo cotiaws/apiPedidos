@@ -15,7 +15,7 @@ public class SwaggerConfiguration {
 		
 		var openApi = new OpenAPI().components(new Components())
 				.info(new Info()
-						.title("API Pedidos - Treinamento TJ/PR")
+						.title("API Pedidos - Treinamento TJ/PR (Teste)")
 						.description("Curso Java Arquiteto - COTI Informática")
 						.version("v1"));
 		
